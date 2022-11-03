@@ -1,1 +1,1 @@
-document.write("Este es nuestro proyecto del ciclo IV")
+document.write("Este es nuestro proyecto del ciclo IV");
